@@ -1,0 +1,6 @@
+/data/humain_horse/validation/horses/
+/data/humain_horse/validation/humans/
+.idea/*
+.idea/book_ml.iml
+/data/humain_horse/training/horses/
+/data/humain_horse/training/humans/
